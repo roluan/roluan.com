@@ -6,15 +6,24 @@ body
 	font-size: 16px;
 	line-height: 1.5;
 	color: #606c71;
+	margin: 0 auto;
 }
 
-a 
+a
 {
 	color: #1e6bb8;
 	text-decoration: none;
 }
 
-a:hover 
+a:hover
 {
 	text-decoration: underline;
+}
+
+.page-header 
+{
+	color: #fff;
+	background-color: #606c71;
+	height: 3rem;
+	max-width: 1000px;
 }
