@@ -22,7 +22,8 @@ a:hover
 .page-header-logo
 {
 	max-width: 980px;
-	padding-top:0.2rem;
+	margin: 0 auto;
+	padding-top:0.25rem;
 }
 
 .page-header
