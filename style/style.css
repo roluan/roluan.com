@@ -19,6 +19,13 @@ a:hover
 	text-decoration: underline;
 }
 
+.page-section
+{
+	max-width: 980px;
+	margin: 0 auto;
+	padding-top:0.25rem;
+}
+
 .page-header-logo
 {
 	max-width: 980px;
