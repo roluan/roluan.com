@@ -27,3 +27,8 @@ a:hover
 	height: 3rem;
 	max-width: 1000px;
 }
+
+.logo 
+{
+	width: 9rem;
+}
