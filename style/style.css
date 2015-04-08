@@ -8,10 +8,11 @@ body
 	margin: 0 auto;
 }
 
-a
+a 
 {
-	color: #1e6bb8;
-	text-decoration: none;
+  color:#39c;
+  font-weight:400;
+  text-decoration:none;
 }
 
 a:hover
