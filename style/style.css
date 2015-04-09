@@ -39,3 +39,16 @@ a:hover
 {
 	width: 7rem;
 }
+
+.main-image
+{
+	width: 30rem;
+}
+
+@media (max-width: 42em) 
+{
+	.main-image 
+	{
+		width: 15rem;
+	}
+}
