@@ -26,6 +26,8 @@ a:hover
 	margin: 0 auto;
 	padding-top:0.3rem;
 	margin-bottom: 0.25rem;
+	margin-right: 0.25rem;
+	margin-left: 0.25rem;
 }
 
 
@@ -50,11 +52,5 @@ a:hover
 	.main-image 
 	{
 		width: 15rem;
-	}
-	
-	.page-section 
-	{
-  		margin-right: 0.25rem;
-  		margin-left: 0.25rem;
 	}
 }
