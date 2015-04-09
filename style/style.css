@@ -45,10 +45,16 @@ a:hover
 	width: 30rem;
 }
 
-@media (max-width: 32em) 
+@media (max-width: 30em) 
 {
 	.main-image 
 	{
 		width: 15rem;
+	}
+	
+	.page-section 
+	{
+  		margin-right: 0.25rem;
+  		margin-left: 0.25rem;
 	}
 }
