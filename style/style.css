@@ -63,8 +63,9 @@ a:hover
 	border-top:1px solid #606c71;
 	max-width: 980px;
 	margin: 0 auto;
-	font-size: 14px;
-	padding-top: 5px;
+	font-size:14px;
+	margin-top:15px;
+	padding-top:1px;
 }
 
 .logo 
@@ -83,5 +84,10 @@ a:hover
 	.main-image 
 	{
 		width: 15rem;
+	}
+	
+	.page-card
+	{
+		float: inherit;
 	}
 }
