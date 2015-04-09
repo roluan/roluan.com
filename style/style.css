@@ -31,11 +31,8 @@ a:hover
 {
 	margin-top:15px;
 	min-height:5rem;
-	width: 30rem;
+	max-width: 20rem;
 	padding:8px 15px;
-  	border-radius:5px;
-  	border:1px solid #e5e5e5;
-  	overflow-x: auto;
   	float: left;
 }
 
