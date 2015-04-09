@@ -29,6 +29,7 @@ a:hover
 
 .page-card
 {
+	margin-top:15px;
 	min-height:5rem;
 	width: 30rem;
 	padding:8px 15px;
