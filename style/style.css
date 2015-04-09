@@ -45,7 +45,7 @@ a:hover
 	width: 30rem;
 }
 
-@media (max-width: 42em) 
+@media (max-width: 32em) 
 {
 	.main-image 
 	{
