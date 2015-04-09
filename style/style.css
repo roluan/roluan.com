@@ -24,10 +24,7 @@ a:hover
 {
 	max-width: 980px;
 	margin: 0 auto;
-	padding-top:0.3rem;
-	margin-bottom: 0.25rem;
-	margin-right: 0.25rem;
-	margin-left: 0.25rem;
+	padding:0.3rem 0.25rem;
 }
 
 
