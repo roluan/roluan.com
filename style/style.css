@@ -39,13 +39,11 @@ a:hover
 .btn 
 {
 	display: inline-block;
-	margin-bottom: 1rem;
-	color: #fffff;
+	color: #fff;
 	background-color: #606c71;
-	border-color: rgba(255, 255, 255, 0.2);
-	border-style: solid;
+	border: 1px solid #39c;
 	border-width: 1px;
-	transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+	padding: 1px 10px 1px 10px;
 }
 
 
