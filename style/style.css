@@ -85,7 +85,10 @@ a:hover
 	{
 		width: 15rem;
 	}
-	
+}
+
+@media (max-width: 760px) 
+{
 	.page-card
 	{
 		float: inherit;
