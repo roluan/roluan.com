@@ -103,6 +103,6 @@ a:hover
 	.page-footer span
 	{
 		float: none;
-		
+		width: 100%;
 	}	
 }
