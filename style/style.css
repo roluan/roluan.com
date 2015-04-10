@@ -93,4 +93,9 @@ a:hover
 	{
 		float: inherit;
 	}
+	
+	.page-footer
+	{
+		text-align: center;
+	}
 }
