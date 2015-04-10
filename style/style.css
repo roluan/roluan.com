@@ -99,4 +99,10 @@ a:hover
 		text-align: center;
 		width:90%;
 	}
+	
+	.page-footer span
+	{
+		float: none;
+		
+	}	
 }
