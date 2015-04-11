@@ -110,6 +110,11 @@ a:hover
 		width:90%;
 	}
 	
+	p, .top-menu
+	{
+		width:90%;
+	}
+	
 	.page-footer span
 	{
 		float: none;
