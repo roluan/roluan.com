@@ -114,6 +114,8 @@ a:hover
 	{
 		width:90%;
 		margin: auto;
+		margin-top: inherit;
+		margin-bottom: inherit;
 	}
 	
 	.page-footer span
