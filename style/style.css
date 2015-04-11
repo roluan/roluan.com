@@ -118,6 +118,12 @@ a:hover
 		margin-bottom: inherit;
 	}
 	
+	h4
+	{
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
 	.page-footer span
 	{
 		float: none;
