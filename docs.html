@@ -9,12 +9,17 @@ title: Home
 	as possible for a real computer: mainboard, processor, RAM, hard disk, video card, etc. 
 	All operations are done in ternary code, including hardware driver controllers, 
 	interrupts and emulation of VGA monitor.<br /><br />
-	As a proof of concept, two versions are planned: desktop and web. By using the desktop
+	As a proof of concept, two versions are available: desktop and web. By using the desktop
 	version, downloading, installing some additional components and compiling will be needed.
 	Using the web means that all code will be executed on our servers and only the screen 
 	will be shown in a web page. The detailed code documentation will be published soon.</p>
 	
 	<h4>Compiler</h4>
-	<p>It is the hardest software part of this project. After releasing the first alpha of
-	Emulator, a compiler from IL, produced by c# to Ternary Emulator Assembler will be published.</p>
+	<p>It is one of the hardest software part of this project. After releasing the first alpha of
+	emulator, a compiler from Common Intermediate Language, produced by c# to Ternary Emulator 
+	Assembler will be published. There are many things that are change: one simle example, in ternary code the
+	Int64 is not used. Instead, the Int27 will be used. To avoid changes of current applications
+	written in c#, the compiler itself will make these translations. That will permit to run
+	pure .Net applications written using binary logic to be just compiled using Roluan Compiler,
+	and these applications will be ready for Roluan System.</p>
 </div>
