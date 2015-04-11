@@ -120,8 +120,7 @@ a:hover
 	
 	h4
 	{
-		margin-left: auto;
-		margin-right: auto;
+		width:90%;
 	}
 	
 	.page-footer span
